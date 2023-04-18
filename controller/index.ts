@@ -1,0 +1,1 @@
+export { postLogin } from "./module/loginController"

@@ -1,0 +1,1 @@
+export { default as getPostData} from "./module/getPostData";
